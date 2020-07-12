@@ -11,7 +11,7 @@
 
 This summer, I'm also doing data science for the [PATHS-UP program](https://pathsup.org/) at Rice
 
-### 👯 Things I know how to do...
+### 📚 Things I know how to do...
 
 - Python
 - R
