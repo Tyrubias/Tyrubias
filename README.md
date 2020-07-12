@@ -2,7 +2,9 @@
 
 - I'm passionate about health-related data science, full stack development, and automation. 
 - As a junior at Rice, I'm majoring in Computer Science and Statistics and minoring in Biochemistry.
-- Besides coding, I love hip hop and Korean pop dancing, rock climbing, and reading. I'm the team manager for [BASYK](https://www.youtube.com/user/BASYKrice), a dance club at Rice. I also help run the [Rice Science Olympiad Invitational](http://ricesoaa.weebly.com/) as the treasurer
+- Besides coding, I love hip hop and Korean pop dancing, rock climbing, and reading. 
+- I'm the team manager for [BASYK](https://www.youtube.com/user/BASYKrice), a dance club at Rice. 
+- I also help run the [Rice Science Olympiad Invitational](http://ricesoaa.weebly.com/) as the treasurer.
  
  ### 🔭 I’m currently working on ...
 
