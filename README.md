@@ -1,6 +1,6 @@
 ### ⚡ A little about me...
 
-I'm a junior at Rice University. I'm majoring in Computer Science and Statistics and minoring in Biochemistry.
+I'm passionate about health-related data science, full stack development, and automation. As a junior at Rice, I'm majoring in Computer Science and Statistics and minoring in Biochemistry.
 Besides coding, I love hip hop and Korean pop dancing, rock climbing, and reading. I'm the team manager for BASYK
  
  ### 🔭 I’m currently working on ...
