@@ -7,7 +7,7 @@
  ### 🔭 I’m currently working on ...
 
 - [RiceDiscuss, an online community for Rice students](https://github.com/rice-apps/RiceDiscuss-backend)
-- [Hedwig, a food-ordering service for Rice students](https://github.com/rice-apps/HedwigUnified)
+- [Hedwig, a food-ordering service for the Rice community](https://github.com/rice-apps/HedwigUnified)
 
 This summer, I'm also doing data science for the [PATHS-UP program](https://pathsup.org/) at Rice
 
