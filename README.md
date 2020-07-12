@@ -1,4 +1,7 @@
-### Hi there 👋
+### A little about me...
+
+I'm a junior at Rice University. I'm majoring in Computer Science and Statistics and minoring in Biochemistry.
+Besides coding, I love hip hop and Korean pop dancing, rock climbing, and reading.
 
 <!--
 **Tyrubias/Tyrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
