@@ -23,7 +23,7 @@ This summer, I'm also doing data science for the [PATHS-UP program](https://path
 - Go
 - OCaml
 - Neural networks for natural language processing
-- Parsers
+- Building interpreters and compilers
 
 <!--
 **Tyrubias/Tyrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
