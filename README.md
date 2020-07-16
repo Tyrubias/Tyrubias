@@ -8,7 +8,6 @@
  
  ### 🔭 I’m currently working on ...
 
-- [Minimap, a location based social network in NYC](https://minimap.us/)
 - [RiceDiscuss, an online community for Rice students](https://github.com/rice-apps/RiceDiscuss-backend)
 - [Hedwig, a food-ordering service for the Rice community](https://github.com/rice-apps/HedwigUnified)
 
