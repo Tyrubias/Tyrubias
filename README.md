@@ -13,7 +13,7 @@
 
 This summer, I'm also doing data science for the [PATHS-UP program](https://pathsup.org/) at Rice
 
-### 😄 Projects I've worked on before
+### 😄 Projects I've worked on before...
 
 - [The first iteration of the Minimap website, a location based social network in NYC](https://minimap.us/)
 - [The first iteration of the Friends of Texas Wildlife website](https://github.com/rice-apps/ftwl)
