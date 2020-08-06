@@ -10,6 +10,7 @@
 
 - [RiceDiscuss, an online community for Rice students](https://github.com/rice-apps/RiceDiscuss-backend)
 - [Hedwig, a food-ordering service for the Rice community](https://github.com/rice-apps/HedwigUnified)
+- [A GraphQL wrapper for the COVID Tracking Project](https://github.com/Tyrubias/covid-tracking-graphql)
 
 This summer, I'm also doing data science for the [PATHS-UP program](https://pathsup.org/) at Rice
 
