@@ -8,7 +8,7 @@
  
  ### 🔭 I’m currently working on ...
 
-- [RiceDiscuss, an online community for Rice students](https://github.com/rice-apps/RiceDiscuss-backend)
+- [hootspace, an online community for Rice students](https://github.com/rice-apps/hootspace)
 - [Hedwig, a food-ordering service for the Rice community](https://github.com/rice-apps/HedwigUnified)
 - [A GraphQL wrapper for the COVID Tracking Project](https://github.com/Tyrubias/covid-tracking-graphql)
 
