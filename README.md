@@ -1,6 +1,6 @@
 ### ⚡ A little about me...
 
-- I'm passionate about health-related data science, full stack development, and automation. 
+- I'm passionate about data science, full stack development, and machine learning. 
 - As a junior at Rice, I'm majoring in Computer Science and Statistics and minoring in Biochemistry.
 - Besides coding, I love hip hop and Korean pop dancing, rock climbing, and reading. 
 - I'm the team manager for [BASYK](https://www.youtube.com/user/BASYKrice), a dance club at Rice. 
