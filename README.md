@@ -35,9 +35,12 @@ This summer, I'm also doing data science for the [PATHS-UP program](https://path
 - Neural networks for natural language processing
 - Building interpreters and compilers
 
-[![Tyrubias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyrubias)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Tyrubias's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrubias)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Tyrubias&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyrubias&layout=compact" />
+</a>
 
 <!--
 **Tyrubias/Tyrubias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
