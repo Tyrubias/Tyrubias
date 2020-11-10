@@ -26,6 +26,7 @@ This summer, I'm also doing data science for the [PATHS-UP program](https://path
 - R
 - JavaScript
 - GraphQL
+- Bayesian inference
 
 ### 🌱 Things I'm trying to learn...
 
