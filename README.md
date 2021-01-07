@@ -12,7 +12,7 @@
 - [Hedwig, a food-ordering service for the Rice community](https://github.com/rice-apps/HedwigUnified)
 - [A GraphQL wrapper for the COVID Tracking Project](https://github.com/Tyrubias/covid-tracking-graphql)
 
-This summer, I'm also doing data science for the [PATHS-UP program](https://pathsup.org/) at Rice
+In the summer of 2020, I also did data science for the [PATHS-UP program](https://pathsup.org/) at Rice
 
 ### 😄 Projects I've worked on before...
 
