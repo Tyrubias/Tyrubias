@@ -16,6 +16,7 @@ In the summer of 2020, I also did data science for the [PATHS-UP program](https:
 
 ### 😄 Projects I've worked on before...
 
+- [Thoth, an intelligent video processor with speech to text, OCR, and searchable videos](https://github.com/maxyu1115/thoth), which won first place at HackRice 11.
 - [The first iteration of the Minimap website, a location based social network in NYC](https://minimap.us/)
 - [The first iteration of the Friends of Texas Wildlife website](https://github.com/rice-apps/ftwl)
 - [RiceApps team website](http://www.riceapps.org/)
