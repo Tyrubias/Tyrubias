@@ -1,8 +1,8 @@
 ### ⚡ A little about me...
 
 - I'm passionate about data science, full stack development, and machine learning. 
-- As a senior at Rice, I'm majoring in Computer Science and Statistics.
-- Besides coding, I love hip hop and Korean pop dancing, rock climbing, and reading. 
+- I'm a Rice University alumni who majored in CS/statistics and is now working at Capital One.
+- Besides coding, I love hip hop and Korean pop dancing, board games, and reading. 
 - I'm the president of [BASYK](https://www.youtube.com/user/BASYKrice), a dance club at Rice. 
 - I also help run the [Rice Science Olympiad Invitational](http://ricesoaa.weebly.com/) as the treasurer.
  
